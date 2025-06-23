@@ -1,6 +1,6 @@
 ---
 order: 2
-title: Analyze
+title: Обновление статистики
 ---
 
 ## **online_analyze -- обновление статистики после операций** `INSERT`**,** `UPDATE`**,** `DELETE` **или** `SELECT INTO`
