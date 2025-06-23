@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Задача Обслуживание Сервера администрирования
+title: Обслуживание Сервера администрирования
 ---
 
 Ссылка: [  https://support.kaspersky.com/ksc/14/ru-RU/100999.htm](https://support.kaspersky.com/ksc/14/ru-RU/100999.htm)

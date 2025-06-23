@@ -1,6 +1,6 @@
 ---
 order: 2
-title: Дэшборд косноль
+title: Дэшборд консоль
 ---
 
 Для мониторинга задач антивируса используется Kaspersky Security Center.
@@ -9,8 +9,4 @@ title: Дэшборд косноль
 
 Учетные данные: Administrator : iddqdidkfa
 
- 
-
 ![](./deshbord-kosnol.png){width=510px height=666px}
-
- 
