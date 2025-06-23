@@ -44,3 +44,15 @@ ECHO %time% END >> %pathbackup%log.txt
 
 
 Для проверки запустить bat файл от имени администратора. При успешyом выполнении в папке \<ПутьКПапке\\ИмяБазы> появится файл с расширением \*.dump. (память не должна быть равна 0)
+
+
+
+Полезные файлы:
+
+[postgrebackup.bat](./postgrebackup.bat)
+
+[bases.txt](./bases.txt)
+
+[pgpass.conf](./pgpass.conf)
+
+[backupDel файлы.bat](<./backupDel файлы.bat>)
