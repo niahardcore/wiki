@@ -153,7 +153,7 @@ title: Резервное копирование
 
 Создаем копию:
 
-**pg_basebackup -D "D:\\Backup" -X fetch - F tar**
+**pg_basebackup -D "D:\\Backup" -X fetch -F tar**
 
 -  \-D,  - директория, куда будет скопировано содержимое каталога ..\\data.  Она должна быть пустой
 
