@@ -344,4 +344,4 @@ title: Резервное копирование
 
 
 
-**select pg_stop_backup();**
+**select pg_backup_stop();**
