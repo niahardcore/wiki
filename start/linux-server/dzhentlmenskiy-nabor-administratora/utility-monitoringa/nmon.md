@@ -1,23 +1,21 @@
 ---
 order: 1
-title: Утилиты мониторинга
+title: NMON
 ---
 
-## NMON
-
-### Установка:
+## Установка:
 
 -  Debian/Ubuntu/Astra - `sudo apt install nmon`
 
 -  Fedora/RedHat/RedOS - `sudo dnf install epel-release && sudo dnf install nmon`
 
-### Использование:
+## Использование:
 
 **Мониторинг в реальном времени:**
 
 Для мониторинга ресурсов системы в реальном времени запускаем nmon при помощи команды `nmon` ~~(удивительно)~~.
 
-![](./utility-monitoringa.png){width=1196px height=570px}
+![](./_index-2.png){width=1196px height=570px}
 
 После этого отобразится такое окно со справкой по ресурсам мониторинга.
 
@@ -53,6 +51,8 @@ title: Утилиты мониторинга
 
 :::
 
-### Для подробного изучения:
+## Для подробного изучения:
 
 1. [Простой, надёжный и удобный мониторинг серверов на Linux](https://habr.com/ru/companies/ruvds/articles/324194/) - Habr
+
+
