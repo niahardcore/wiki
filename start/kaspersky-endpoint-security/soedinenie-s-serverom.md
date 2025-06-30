@@ -10,3 +10,5 @@ cd C:\\Program Files (x86)\\Kaspersky Lab\\NetworkAgent
 klmover -address 192.168.100.135
 
 
+
+В случае успешного выполнения получим ОК во всех пунктах.
