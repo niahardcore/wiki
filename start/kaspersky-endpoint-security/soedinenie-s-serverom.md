@@ -1,0 +1,12 @@
+---
+order: 3
+title: Соединение с сервером администрирования
+---
+
+Выполнить в командной строке:
+
+cd C:\\Program Files (x86)\\Kaspersky Lab\\NetworkAgent
+
+klmover -address 192.168.100.135
+
+
