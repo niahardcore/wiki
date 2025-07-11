@@ -7,8 +7,4 @@ title: Команды Git
 
 
 
-`cat rphost_*/*.log | perl -pe 's/\n/@/; s/(^\d\d:\d\d.\d+-)/\n\1/;' | grep --color -iP ',level=INFO,' | perl -pe 's/@/\n/g'`
-
-
-
-
+`cat rphost_*/*.log | perl -pe 's/\n/@/; s/(^\d\d:\d\d.\d+-)/\n\1/;' | grep -iP ',level=INFO,' | perl -pe 's/@/\n/g'`
