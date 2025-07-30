@@ -1,8 +1,6 @@
 ---
-order: 2.5
+order: 4
 title: 4. Linux
 ---
 
 [view:hierarchy=none::::List]
-
-
