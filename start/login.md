@@ -18,4 +18,4 @@ title: Учетные данные
 | Господинко Тарас    | ?                  | ?                             |
 | Мухарашев Ильдар    | ?                  | ?                             |
 | Воронцова Ксения    | AdminGP            | Iddqdidclip_117GP             |
-| Мухарашева ОКсана   | AdminGP            | Iddqdidclip_208GP             |
+| Мухарашева Оксана   | AdminGP            | Iddqdidclip_208GP             |
