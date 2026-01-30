@@ -10,3 +10,7 @@ git commit -m "BackupSQL update" - в кавычках название комм
 git push
 
 
+
+
+
+git pull - актуализировать папку
