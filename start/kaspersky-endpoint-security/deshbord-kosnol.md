@@ -7,6 +7,6 @@ title: Дэшборд консоль
 
 Доступ к базе осуществляется по ссылке: [  https://kaspersky:8080/#/monitoring/dashboard](https://kaspersky:8080/#/monitoring/dashboard)
 
-Учетные данные: Administrator : iddqdidkfa
+Учетные данные: 
 
 ![](./deshbord-kosnol.png){width=510px height=666px}
