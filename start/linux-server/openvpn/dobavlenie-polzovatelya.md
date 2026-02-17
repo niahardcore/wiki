@@ -27,7 +27,7 @@ tmux attach -s main
  sudo ./easyrsa build-client-full <ИмяПользователя> nopass < key_generation_input.txt 
 ```
 
-далее нужно ввести `yes` и пароль от хранилища доверенных ключей `iddqdidkfa`
+далее нужно ввести `yes` и пароль от хранилища доверенных ключей \*
 
 после этого нужно создать папку клиента
 
