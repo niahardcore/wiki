@@ -5,18 +5,18 @@ title: Учетные данные
 
 | Сотрудник           | Admin пользователь | Admin пароль                  |
 |---------------------|--------------------|-------------------------------|
-| Иванова Екатерина   | AdminGP            | Iddqdidclip_115GP             |
+| Иванова Екатерина   | AdminGP            | \*115GP                       |
 | Ким Оксана          | Оксана Ким         | **!личный, Женя думает пока** |
-| Матлак Лариса       | AdminGP            | Iddqdidclip_119GP             |
-| Половинкина Татьяна | GoodPeople         | Iddqdidkfa!                   |
-| Полевщикова Татьяна | AdminGP            | Iddqdidclip_124GP             |
-| Бубнова Татьяна     | AdminGP            | Iddqdidclip_202GP             |
-| Детисов Ярослав     | AdminGP            | Iddqdidclip_203GP             |
-| Краева Светлана     | AdminGP            | Iddqdidclip_777GP             |
-| Магамедов Нурик     | AdminGP            | Iddqdidclip_112GP             |
-| Михеева Лира        | AdminGP            | Iddqdidclip_116GP             |
+| Матлак Лариса       | AdminGP            | \*119GP                       |
+| Половинкина Татьяна | GoodPeople         | \*                            |
+| Полевщикова Татьяна | AdminGP            | \*124GP                       |
+| Бубнова Татьяна     | AdminGP            | \*202GP                       |
+| Детисов Ярослав     | AdminGP            | \*203GP                       |
+| Краева Светлана     | AdminGP            | \*777GP                       |
+| Магамедов Нурик     | AdminGP            | \*112GP                       |
+| Михеева Лира        | AdminGP            | \*116GP                       |
 | Господинко Тарас    | ?                  | ?                             |
 | Мухарашев Ильдар    | ?                  | ?                             |
-| Воронцова Ксения    | AdminGP            | Iddqdidclip_117GP             |
-| Мухарашева Оксана   | AdminGP            | Iddqdidclip_208GP             |
-| Рычко Иван          | AdminGP            | Iddqdidclip_123GP             |
+| Воронцова Ксения    | AdminGP            | \*117GP                       |
+| Мухарашева Оксана   | AdminGP            | \*208GP                       |
+| Рычко Иван          | AdminGP            | \*123GP                       |
